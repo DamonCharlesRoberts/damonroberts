@@ -31,5 +31,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Social Science"
   description = "100%"
+  
+ [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "80%"
 
 +++
