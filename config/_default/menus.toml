@@ -10,7 +10,7 @@
  
 [[main]]
   name = "Teaching"
-  url = "content/courses/teaching.md"
+  url = "teaching.md"
   weight = 20
 
 [[main]]
