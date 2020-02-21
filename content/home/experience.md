@@ -27,12 +27,12 @@ date_format = "Jan 2006"
   description = """Taught introduction to American politics."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Project Specialist"
+  company = "Boise State University"
   company_url = ""
-  location = "California"
+  location = "Idaho"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_end = "2019-07-10"
   description = """
   Responsibilities Include:
   * Management
