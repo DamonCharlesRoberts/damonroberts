@@ -3,7 +3,7 @@ title: Teaching
 linktitle: Teaching
 toc: true
 type: docs
-date: "
+date: ""
 draft: false
 menu:
   teaching:
