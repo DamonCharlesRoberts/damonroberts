@@ -35,6 +35,7 @@ date_format = "Jan 2006"
   date_end = "2019-06-31"
   description = """
   Responsibilities Include:
+  
   * Project Management
   * Financial Analysis
   * Data Science
