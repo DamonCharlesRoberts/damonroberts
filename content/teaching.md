@@ -1,7 +1,8 @@
 ---
 title: Teaching
-linktitle:teaching.md
-type: page
+linktitle: Teaching
+toc: false
+type: docs
 draft:false
 
 ---
