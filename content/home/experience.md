@@ -22,18 +22,17 @@ date_format = "Jan 2006"
   company = "University of Colorado Boulder"
   company_url = ""
   location = ""
-  date_start = "2019-07"
+  date_start = "2019-07-01"
   date_end = ""
-  description = """Teaches Introduction to American Political Science
-  """
+  description = """Teaches Introduction to American Political Science"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Project Specialist"
+  company = "Boise State University"
   company_url = ""
-  location = "California"
+  location = ""
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_end = "2019-06-31"
   description = """
   Responsibilities Include:
   * Project Management
