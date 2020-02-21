@@ -27,9 +27,9 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "book-reader"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Social Science"
+  description = "100%"
 
 +++
