@@ -90,7 +90,7 @@ address = {street = "Ketchum Arts & Sciences, Office 382", city = "Boulder", reg
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = :", longitude = ""}
+coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
 directions = ""
