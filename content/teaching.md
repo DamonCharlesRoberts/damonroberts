@@ -1,9 +1,6 @@
 ---
 title: Teaching
-linktitle: Teaching
-toc: false
-type: docs
-draft:false
+
 
 ---
 <h1>Fall, 2019</h1>
