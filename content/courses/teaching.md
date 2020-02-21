@@ -1,6 +1,6 @@
 ---
 title: Teaching
-type: "widget_page"
+type: "page"
 ---
 <h1>Fall, 2019</h1>
 <a href = "https://drive.google.com/file/d/1qubyYKAn4dYhumsdSUly5unFiPTxylDA/view">PSCI 1101 - Introduction to American Government</a>
