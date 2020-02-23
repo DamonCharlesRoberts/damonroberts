@@ -154,7 +154,7 @@ This leaves you with:
 $$\hat{y} = Py$$
 \newpage
 
-# Doing all of this Using R (taken from Andy Phillips)
+# Doing all of this Using R (credit Andy Phillips)
 
 ## Finding Beta in R
 ```{r}
