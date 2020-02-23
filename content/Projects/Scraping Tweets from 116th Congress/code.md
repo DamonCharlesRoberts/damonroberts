@@ -1,7 +1,7 @@
 ---
-title:Code
+title: Code
 
-page_type:"project"
+page_type: "project"
 
 ---
 
