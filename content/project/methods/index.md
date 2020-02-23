@@ -37,38 +37,50 @@ Here is a break down of finding your OLS equation using matrix algebra. With OLS
 # Calculating Beta
 
 ## Remember that the regression equation is:
-y = xb + e
+
+$$y = xb + e$$
 
 ## Find beta when e is 0:
 $$e_0'e_0 = (y-xb_0)'(y-xb_0)$$
 This basically is the same as subtracting xb from the regression equation to isolate e.
 
 ## Next, use the product rule (like algebra):
+
 $$e_0'e_0 = y'y - y'xb_0 - b_0'xy + x'b_0'xb_0$$
+
 *A.*You can see that you took the $y'$ and multiplied it with $y$. \
 *B.*You then took $y'$ and multiplied it with $xb_0$. \
 *C.*You then took $b_0'$ and multiplied it by $xy$. \
 *D.*You then took $x'$ and $b_0'$ then multiplied it by $xb_0$. \
 
 ## Next, you collect terms. 
+
 $$e'_0 e_0 = y'y -2yx'b_0 + x'xb_0'b_0$$
+
 You can think of this as:
+
 $$y^2 - 2yxb_0 + xb_0^2$$
+
 Please not that the matrices for x and by are still transposed. But to remove the scary matrix algebra for more familiar algebra, this is how you can imagine the equation once you've collected the terms.
 
 ## Derive Beta
+
 Remember, you want to find the a slope for your regression equation when there is no error. Here, you derive beta when it is equal to zero. While this seems somewhat counter intuitive (wouldn't you derive the error term, then?), finding the beta when the sum of squared errors equals 0 will help when you later calculate your expected values and your residuals (that you need for your OLS equation). 
+
 $$\frac{\partial S(b_0)}{\partial b_0} = -2x'y + 2x'xb_0$$
+
 Okay, here you are using the product rule of partial derivatives. Remember that if you find the partial derivative with respect to y of $x^2y$, your result will be $x^2$. Why? X is not being derived. Leave it alone. You are finding the derivative only for your y term. Using the normal product rule $y$ becomes equivalent to 1 ($1y^{1-1} = 1y^0 = 1(1) = 1$). Since we are taking the derivative with respect to $b_0$, we are leaving the other values alone. As I mentioned above, the last peice of the collected terms equation is $xb_0^2$. This is how you get $2x'x'b_0$. The exponent, 2 drops in front and $b_0^2$ becomes $b_0^{2-1}$ or $b_0^{1}$. Since $x'$ and $x$ were not derived, leave them alone. 
 
 ## Add $2x'y$
 
 Take the equation that you got from your partial derivative of beta. Add $2x'y$ to both sides. 
 This gives you:
+
 $$2x'y - 2x'y + 2x'xb_0 = 2x'y$$
 
 ## Simplify
 The $2x'y$ on the left side cancel out. This then gives you:
+
 $$2x'xb_0 = 2x'y$$
 
 ## Divide both sides by 2
@@ -79,14 +91,18 @@ which yields: $x'xb_0 = x'y$
 ## Then isolate $b_0$
 
 $$\frac{x'xb_0}{x'x} = \frac{x'y}{x'x}$$
+
 which yields:
+
 $$b_0 = \frac{x'y}{x'x} $$
+
 $$\equiv (x'x)^{-1}(x'y)$$
 
-If you think of this as normal algebra where you have $(x*x)^{-1}(x*y)$ or $(x^2)^{-1}(x*y)$, you can do some simple math that gives a familiar result:
+If you think of this as normal algebra where you have $(x*x)^{-1}(x*y)$ or (x^2)^{-1}xy, you can do some simple math that gives a familiar result:
 
 $$(x^2)^{-1}(xy)$$
-$$ \equiv \frac{xy}{x^2} $$
+
+$$\equiv\frac{xy}{x^2}$$
 
 which yields $\frac{y}{x}$. This is the slope of a line. Exactly what you'd expect your beta to be. 
 Now that you have found your beta when the sum of your squared errors are equal to 0, it is time to estimate your residuals for points along your x axis that are not included in your dataset. That is, since you do not have a dataset where every imaginable value of x has an observation associated with it in your dataset, you must make an estimation. You want to calculate your residuals first so that you have an idea of how far away these expected values will be away from the beta you just calculated. 
