@@ -1,34 +1,43 @@
 ---
+title: Example Talk
+event: Academic Theme Conference
+event_url: https://example.org
 
-title: Gendered Language and Conservatism in American Politics
-event: The Annual Meeting of the Midwestern Political Science Association 2019
-event_url: https://www.mpsanet.org
+location: Source Themes HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-location: ""
-
-summary: Using an original dictionary of words rated on their perceived masculinity and femininity, we conduct multiple experimental studies to test the effects of masculine and feminine language on political attitudes.
-abstract: ""
+summary: An example talk using Academic's Markdown slides feature.
+abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
- date: "2019-04-07"
-# date_end: "2030-06-01T15:00:00Z"
-# all_day: false
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-02-23"
+publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Stephen M. Utych and Damon C. Roberts]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: ""
-  focal_point: ""
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
-links: ""
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -39,18 +48,18 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
- slides: ""
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+- internal-project
 
 # Enable math on this page?
 math: true
-
 ---
 
 ## Slides
