@@ -37,7 +37,7 @@ header:
 
 * [Week 12 - Congress](https://www.dropbox.com/s/m021n4umoalqm39/Week12Slides.pdf?dl=0)
 
-* [Week 13 - Congress Part II)(https://www.dropbox.com/s/tt9spgz12o8zaap/Week13Slides.pdf?dl=0)
+* [Week 13 - Congress Part II](https://www.dropbox.com/s/tt9spgz12o8zaap/Week13Slides.pdf?dl=0)
 
 * [Week 14 - The Presidency](https://www.dropbox.com/s/ixowquon25xvv17/Week13Slides.pdf?dl=0)
 
