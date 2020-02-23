@@ -4,7 +4,7 @@ event: The Annual Meeting of the Midwestern Political Science Association 2019
 event_url: "https://convention2.allacademic.com/one/mpsa/mpsa19/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1473694&PHPSESSID=guvbpdkpfvb1tkhl15hn87s5q7"
 
 location: Chicago
-# address:
+# address: ""
 #  street: ""
 #  city: ""
 #  region: ""
