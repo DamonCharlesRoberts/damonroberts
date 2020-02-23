@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   date_end = "2019-07-10"
   description = """
   Responsibilities Include:
-  * Management
-  * Financial Reporting and Projection
+  * Project Management
+  * Business Analytics and Financial Projection
   * Website Development"""
 
 +++
