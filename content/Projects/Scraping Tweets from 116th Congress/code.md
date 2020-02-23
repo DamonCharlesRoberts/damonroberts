@@ -1,3 +1,9 @@
+---
+title:Code
+page_type: projects
+
+---
+
 ## Scraping Tweets from members of the 116th Congress. 
 
 Putting together this code definitely took awhile, but hopefully someone will find it helpful.
