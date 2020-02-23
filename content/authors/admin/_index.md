@@ -30,10 +30,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in American Politcs and Methodology
+  - course: Ph.D. Political Science (Concentrating in American Politics and Methodology)
     institution: University of Colorado Boulder
     year: Present
-  - course: B.S. American Politics and Public Policy
+  - course: B.S. Political Science (Concentrations in American Politics and Public Policy)
     institution: Boise State University
     year: 2019
 
