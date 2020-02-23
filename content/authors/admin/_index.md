@@ -18,7 +18,7 @@ organizations:
   url: "https://colorado.edu/lab/aprl/lab-fellows"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Damon is a PhD student at the University of Colorado Boulder with concentrations in American politics and political methodology. His research focuses on political behavior, political psychology, political communication, race and gender, and research methods. Damon's current projects use computational methods to study the differing communicative styles that politicians may use and how those differences affect the public’s view of political events. Damon received his B.S. in Political  Science from Boise State University in 2019.
+bio: I am a PhD student at the University of Colorado Boulder with concentrations in American politics and political methodology. My research focuses on political behavior, political psychology, political communication, race and gender, and research methods. My current projects use computational methods to study the differing communicative styles that politicians may use and how those differences affect the public’s view of political events. I received my B.S. in Political  Science from Boise State University in 2019.
 
 interests:
 - Political Psychology
@@ -69,5 +69,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Damon is a PhD student at the University of Colorado Boulder with concentrations in American politics and political methodology. His research focuses on political behavior, political psychology, political communication, race and gender, and research methods. Damon's current projects use computational methods to study the differing communicative styles that politicians may use and how those differences affect the public’s view of political events. Damon received his B.S. in Political  Science from Boise State University in 2019.
+I am a PhD student at the University of Colorado Boulder with concentrations in American politics and political methodology. His research focuses on political behavior, political psychology, political communication, race and gender, and research methods. My current projects use computational methods to study the differing communicative styles that politicians may use and how those differences affect the public’s view of political events. I received my B.S. in Political  Science from Boise State University in 2019.
 
