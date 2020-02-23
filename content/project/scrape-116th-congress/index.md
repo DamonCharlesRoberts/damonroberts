@@ -7,7 +7,7 @@ tags:
   - Web scraping
   
 external_link: ""
-date: 2020-01-03
+date: "2020-01-03"
 
 
 image: ""
