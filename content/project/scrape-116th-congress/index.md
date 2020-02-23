@@ -10,7 +10,9 @@ external_link: ""
 date: "2020-01-03"
 
 
-image: ""
+image: 
+  caption: ""
+  focal_point: ""
 
 links: ""
 
