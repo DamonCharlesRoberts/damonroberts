@@ -1,7 +1,7 @@
 ---
 title: Gendered Language and Conservatism in American Politics
 event: The Annual Meeting of the Midwestern Political Science Association 2019
-event_url: "https://convention2.allacademic.com/one/mpsa/mpsa19/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1473694&PHPSESSID=guvbpdkpfvb1tkhl15hn87s5q7"
+event_url: "
 
 location: Chicago
  address: 
@@ -39,7 +39,7 @@ links:
   name: ""
   url: ""
 url_code: ""
-url_pdf: "https://www.dropbox.com/s/386mv727n9u4ihi/Utych%20Roberts%20Gendered%20Language%20MPSA%20presentation.pdf?dl=0"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -61,3 +61,7 @@ projects: []
 math: true
 
 ---
+
+## Slides
+
+[Download the Slides here](https://www.dropbox.com/s/386mv727n9u4ihi/Utych%20Roberts%20Gendered%20Language%20MPSA%20presentation.pdf?dl=0)
