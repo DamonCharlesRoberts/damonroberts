@@ -98,7 +98,7 @@ $$b_0 = \frac{x'y}{x'x} $$
 
 $$\equiv (x'x)^{-1}(x'y)$$
 
-If you think of this as normal algebra where you have $(x*x)^{-1}(x*y)$ or $(x^2)^{-1}xy$, you can do some simple math that gives a familiar result:
+If you think of this as normal algebra where you have $(x*x)^{-1}(x*y)$, you can do some simple math that gives a familiar result:
 
 $$(x^2)^{-1}(xy)$$
 
