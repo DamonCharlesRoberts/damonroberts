@@ -1,6 +1,6 @@
 ---
 title:Code
-page_type: projects
+page_type: "Projects"
 
 ---
 
