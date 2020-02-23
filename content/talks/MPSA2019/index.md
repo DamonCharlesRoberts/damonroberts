@@ -3,13 +3,7 @@ title: Gendered Language and Conservatism in American Politics
 event: The Annual Meeting of the Midwestern Political Science Association 2019
 event_url: 
 
-location: 
- address: 
-  street: ""
-  city: ""
-  region: ""
-  postcode: ""
-  country: ""
+location: ""
 
 summary: Using an original dictionary of words rated on their perceived masculinity and femininity, we conduct multiple experimental studies to test the effects of masculine and feminine language on political attitudes.
 abstract: ""
@@ -33,11 +27,7 @@ image:
   caption: ""
   focal_point: ""
 
-links:
-  icon: ""
-  icon_pack: ""
-  name: ""
-  url: ""
+links: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
