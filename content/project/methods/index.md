@@ -48,7 +48,7 @@ $$e_0'e_0 = y'y - y'xb_0 - b_0'xy + x'b_0'xb_0$$
 *A.*You can see that you took the $y'$ and multiplied it with $y$. \
 *B.*You then took $y'$ and multiplied it with $xb_0$. \
 *C.*You then took $b_0'$ and multiplied it by $xy$. \
-*D.*You then took $x'$ and $b_0'$ then multiplied it by $xb_0$. \ 
+*D.*You then took $x'$ and $b_0'$ then multiplied it by $xb_0$. \
 
 ## Next, you collect terms. 
 $$e'_0 e_0 = y'y -2yx'b_0 + x'xb_0'b_0$$
