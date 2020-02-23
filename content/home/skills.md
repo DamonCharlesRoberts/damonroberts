@@ -18,24 +18,24 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Preferred language for my projects"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "OLS, GLM, Various MLE, Modeling Count Data, Survey Methodology"  
   
 [[feature]]
   icon = "book-reader"
   icon_pack = "fas"
   name = "Social Science"
-  description = "100%"
+  description = "Political Science, dabble in social psychology and communication"
   
  [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "80%"
+  description = "Python can be quite fun use it to complete various tasks that are not suitable for R"
 
 +++
