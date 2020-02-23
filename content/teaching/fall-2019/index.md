@@ -1,7 +1,7 @@
 ---
 title: Introduction to American Politics - Fall 2019
 layout: docs  # Do not modify.
-
+summary: Find slides and the syllabus for Fall 2019, PSCI 1101 - Introduction to American Government
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
