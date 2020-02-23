@@ -26,5 +26,7 @@ header:
 * Week 6 - Exam Review
 
 * Week 7 - Public Opinion and Media
-  *[Past Lecture Slides on Public Opinion and the Media](https://www.dropbox.com/s/phm86rmzjbnd2tb/Week7-Lect.pdf?dl=0)
-  *[Discussion Slides on Public Opinion and the Media](https://www.dropbox.com/s/99vedt05bcsalcg/Week7.pdf?dl=0)
+ 
+  - [Past Lecture Slides on Public Opinion and the Media](https://www.dropbox.com/s/phm86rmzjbnd2tb/Week7-Lect.pdf?dl=0)
+  
+  - [Discussion Slides on Public Opinion and the Media](https://www.dropbox.com/s/99vedt05bcsalcg/Week7.pdf?dl=0)
