@@ -1,4 +1,5 @@
 ---
+
 title: Gendered Language and Conservatism in American Politics
 event: The Annual Meeting of the Midwestern Political Science Association 2019
 event_url: 
@@ -15,7 +16,7 @@ abstract: ""
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-02-23"
 
 authors: [Stephen M. Utych and Damon C. Roberts]
 tags: []
