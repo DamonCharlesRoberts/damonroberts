@@ -1,6 +1,6 @@
 ---
 title: Code
-summary: Using R to scrape tweets from members of the 116th Congress
+summary: Using R
 tags:
   - R
   - Twitter
