@@ -33,11 +33,11 @@ image:
   caption: ""
   focal_point: ""
 
-#links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+links:
+  icon: ""
+  icon_pack: ""
+  name: ""
+  url: ""
 url_code: ""
 url_pdf: "https://www.dropbox.com/s/386mv727n9u4ihi/Utych%20Roberts%20Gendered%20Language%20MPSA%20presentation.pdf?dl=0"
 url_slides: ""
@@ -55,8 +55,7 @@ url_video: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- internal-project
+projects: []
 
 # Enable math on this page?
 math: true
