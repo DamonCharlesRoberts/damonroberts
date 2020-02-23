@@ -8,9 +8,9 @@ tags:
 external_link: ""
 
 
-image:""
+image: ""
 
-links:""
+links: ""
 
 url_code: ""
 url_pdf: ""
