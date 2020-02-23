@@ -17,10 +17,10 @@ library(tidyverse)
 library(ggplot2)
 library(dplyr)
 #Authentication
-api_key <- "K9ArCyiCmOaJDTAArBXHDnGo0"
-api_secret <- "1egMquUAtE9Kp5mDVmMomwfFIDrOZQcYoxUBcxUsZzEhtUnegw"
-access_token <- "1114308687261261824-FEK7ybe6LwG4DFB4oofByZvouN6Jiz"
-access_token_secret <- "C0sj3bXJOw3F5fapzMyDx0wkRZ8cR6rg1PNbRdnvnIJX3"
+api_key <- ""
+api_secret <- ""
+access_token <- ""
+access_token_secret <- ""
 token <- create_token(
   app = "Congress_Gender",
   consumer_key = api_key,
