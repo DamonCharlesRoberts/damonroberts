@@ -23,7 +23,7 @@ abstract: "Using an original dictionary of words rated on their perceived mascul
 # Schedule page publish date (NOT talk date).
 # publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
+authors: [Stephen M. Utych and Damon C. Roberts]
 tags: []
 
 # Is this a featured talk? (true/false)
