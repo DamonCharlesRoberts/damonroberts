@@ -4,12 +4,12 @@ event: The Annual Meeting of the Midwestern Political Science Association 2019
 event_url: "https://convention2.allacademic.com/one/mpsa/mpsa19/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1473694&PHPSESSID=guvbpdkpfvb1tkhl15hn87s5q7"
 
 location: Chicago
-# address: ""
-#  street: ""
-#  city: ""
-#  region: ""
-#  postcode: ""
-#  country: ""
+ address: 
+  street: ""
+  city: ""
+  region: ""
+  postcode: ""
+  country: ""
 
 summary: ""
 abstract: "Using an original dictionary of words rated on their perceived masculinity and femininity, we conduct multiple experimental studies to test the effects of masculine and feminine language on political attitudes."
