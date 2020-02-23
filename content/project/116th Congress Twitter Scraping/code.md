@@ -1,7 +1,28 @@
 ---
 title: Code
+summary: Using R to scrape tweets from members of the 116th Congress
+tags:
+  - R
+  - Twitter
+  - Web scraping
+external_link: ""
 
-page_type: "project"
+
+image:""
+
+links:""
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
 
 ---
 
