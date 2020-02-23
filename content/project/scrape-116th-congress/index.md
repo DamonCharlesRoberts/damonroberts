@@ -2,9 +2,9 @@
 title: Code
 summary: Using R
 tags:
-  - R
-  - Twitter
-  - Web scraping
+ - R
+ - Twitter
+ - Web scraping
   
 external_link: ""
 date: "2020-01-03"
