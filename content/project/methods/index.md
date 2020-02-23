@@ -82,9 +82,11 @@ $$\frac{x'xb_0}{x'x} = \frac{x'y}{x'x}$$
 which yields:
 $$b_0 = \frac{x'y}{x'x} $$
 $$\equiv (x'x)^{-1}(x'y)$$
+
 If you think of this as normal algebra where you have $(x*x)^{-1}(x*y)$ or $(x^2)^{-1}(x*y)$, you can do some simple math that gives a familiar result:
 $$(x^2)^{-1}(xy)$$
 $$ \equiv \frac{xy}{x^2} $$
+
 which yields $\frac{y}{x}$. This is the slope of a line. Exactly what you'd expect your beta to be. 
 Now that you have found your beta when the sum of your squared errors are equal to 0, it is time to estimate your residuals for points along your x axis that are not included in your dataset. That is, since you do not have a dataset where every imaginable value of x has an observation associated with it in your dataset, you must make an estimation. You want to calculate your residuals first so that you have an idea of how far away these expected values will be away from the beta you just calculated. 
 
