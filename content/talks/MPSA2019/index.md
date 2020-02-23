@@ -11,8 +11,8 @@ location:
   postcode: ""
   country: ""
 
-summary: ""
-abstract: "Using an original dictionary of words rated on their perceived masculinity and femininity, we conduct multiple experimental studies to test the effects of masculine and feminine language on political attitudes."
+summary: Using an original dictionary of words rated on their perceived masculinity and femininity, we conduct multiple experimental studies to test the effects of masculine and feminine language on political attitudes.
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
