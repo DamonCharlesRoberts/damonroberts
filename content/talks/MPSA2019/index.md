@@ -3,7 +3,7 @@ title: Gendered Language and Conservatism in American Politics
 event: The Annual Meeting of the Midwestern Political Science Association 2019
 event_url: ""
 
-location: Chicago
+location: 
  address: 
   street: ""
   city: ""
