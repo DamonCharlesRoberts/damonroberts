@@ -18,7 +18,7 @@ organizations:
   url: "https://colorado.edu/lab/aprl/lab-fellows"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at the University of Colorado Boulder with concentrations in American politics and political methodology. My research focuses on political behavior, political psychology, political communication, race and gender, and research methods. My current projects use computational methods to study the differing communicative styles that politicians may use and how those differences affect the public’s view of political events. I received my B.S. in Political  Science from Boise State University in 2019.
+bio: Lab Fellow at the American Politics Research Lab, Ph.D. Student, Public Opinion, Political Psychology, Computational Social Sciences.
 
 interests:
 - Political Psychology
@@ -69,5 +69,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a PhD student at the University of Colorado Boulder with concentrations in American politics and political methodology. My research focuses on political behavior, political psychology, political communication, race and gender, and research methods. My current projects use computational methods to study the differing communicative styles that politicians may use and how those differences affect the public’s view of political events. I received my B.S. in Political  Science from Boise State University in 2019.
+I am a Lab Fellow in the American Politics Research lab and a Ph.D. student at the University of Colorado Boulder with concentrations in American politics and political methodology. My research focuses on political behavior, political psychology, political communication, race and gender, and research methods. My current projects use computational methods to study the differing communicative styles that politicians may use and how those differences affect the public’s view of political events. I received my B.S. in Political  Science from Boise State University in 2019.
 
