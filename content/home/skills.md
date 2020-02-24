@@ -36,6 +36,6 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Python can be quite fun use it to complete various tasks that are not suitable for R"
+  description = "Python can be quite fun. I use it to complete various tasks that are not suitable for R"
 
 +++
