@@ -30,3 +30,6 @@ header:
   - [Past Lecture Slides on Public Opinion and the Media](https://www.dropbox.com/s/phm86rmzjbnd2tb/Week7-Lect.pdf?dl=0)
   
   - [Discussion Slides on Public Opinion and the Media](https://www.dropbox.com/s/99vedt05bcsalcg/Week7.pdf?dl=0)
+
+* [Week 8 - The Media and Political Parties](https://www.dropbox.com/s/ohih2wrzp267mkd/Week8.pdf?dl=0)
+
