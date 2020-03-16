@@ -7,7 +7,7 @@ header:
   caption: ""
   image: ""
 ---
-## Office Hours for remainder of fall semester. Permanent Zoom Meeting ID: https://cuboulder.zoom.us/j/5127211148
+## Office Hours for remainder of spring semester. Permanent Zoom Meeting ID: https://cuboulder.zoom.us/j/5127211148
 
 ## Syllabus
 [PSCI 1101 - Introduction to American Government Syllabus](https://www.dropbox.com/s/2jhc8gacfe7cobm/Roberts%20-%20Spring%2C%202020%20PSCI%201101-%20Recitation%20Syllabus.pdf?dl=0)
