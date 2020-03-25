@@ -1,7 +1,7 @@
 ---
-title: Introduction to American Politics - Fall 2020
+title: Introduction to American Politics - Spring 2020
 layout: docs  # Do not modify.
-summary: Find slides and the syllabus for Fall 2020, PSCI 1101 - Introduction to American Government
+summary: Find slides and the syllabus for Spring 2020, PSCI 1101 - Introduction to American Government
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
