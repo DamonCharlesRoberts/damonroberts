@@ -1,5 +1,5 @@
 ---
-title: ScrapeCong
+title: ScrapeCongress
 summary: R Package to Scrape Tweets from members of the 116th Congress
 tags:
  - R
