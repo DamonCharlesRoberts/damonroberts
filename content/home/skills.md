@@ -18,13 +18,13 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Preferred language for my projects"
+  description = "Used in most research projects and beggining to develop some R packages (see my software page)."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "OLS, GLM, Various MLE, Modeling Count Data, Survey Methodology"  
+  description = "Have Training in: GLM, MLM, Structural Equations Modeling, Experimental Methods, Text Analysis, Bayesian Statistics"  
   
 [[feature]]
   icon = "book-reader"
@@ -36,6 +36,6 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Python can be quite fun. I use it to complete various tasks that are not suitable for R"
+  description = "Use Python for tasks not suitable in R. Looking to use it more often."
 
 +++
