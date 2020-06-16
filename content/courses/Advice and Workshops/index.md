@@ -12,4 +12,6 @@ header:
 
 * [Common Undergrad Term Paper Mistakes Workshop](https://www.dropbox.com/s/fwsa5afbrsjitzn/Writing%20Mistakes.pdf?dl=0)
 
-* [Advice for Active Reading as an Undergrad](https://github.com/DamonCharlesRoberts/damonroberts/tree/master/static/files/websiteworkshop.html)
+* [Advice for Active Reading as an Undergrad](https://www.dropbox.com/s/g7vp69um1521wr0/Active-Reading--UG-Version-.pdf?dl=0)
+
+* [Professional Website Building with Github](https://github.com/DamonCharlesRoberts/damonroberts/tree/master/static/files/websiteworkshop.html) 
