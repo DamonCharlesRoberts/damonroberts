@@ -14,5 +14,4 @@ header:
 
 * [Advice for Active Reading as an Undergrad](https://www.dropbox.com/s/g7vp69um1521wr0/Active-Reading--UG-Version-.pdf?dl=0)
 
-* name = "Professional Website Building with Github:
-  url = "files/websiteworkshop.pdf"
+* [Professional Website Building with Github](https://www.dropbox.com/s/hmk9pvwhwfg537c/websiteworkshop.pdf?dl=0)
