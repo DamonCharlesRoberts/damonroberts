@@ -1,5 +1,5 @@
 ---
-title: Polarized Social Distaincing
+title: Not So Different After All: Journalists Use Gendered Language Too
 summary: Working Paper
 tags:
  - Gendered Language
