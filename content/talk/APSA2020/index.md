@@ -12,7 +12,7 @@ address:
   country: 
 
 summary: 
-abstract: Political language often has gendered connotations, both in the topics politicians
+abstract: "Political language often has gendered connotations, both in the topics politicians
 talk about, but also in the words they use. Using a validated dictionary of 700
 words rated on the dimension of masculinity and femininity, we analyze approximately
 27,000 public statements and interviews of U.S. Senators. We expect that
@@ -23,7 +23,7 @@ the effect of gender of the speaker. Taking advantage of the depth and breadth o
 data collected on what US Senators tweet, we use a word2vec embedding neural
 network to identify similar words to those in the dictionary. This expansion gives
 us a more complete view of the masculine and feminine language that does not rely
-wholly on ratings from coders.
+wholly on ratings from coders."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
