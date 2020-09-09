@@ -3,7 +3,7 @@ title: An Expanded Gendered Language Dictionary for Political Analysis
 event: American Political Science Association Annual Meeting
 event_url: https://connect.apsanet.org/apsa2020/
 
-location: Remote version San Francisco
+location: Remote version of San Francisco
 address:
   street:
   city: 
