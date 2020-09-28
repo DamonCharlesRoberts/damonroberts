@@ -27,7 +27,7 @@ wholly on ratings from coders."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-04-07T08:00:00Z"
+date: "2020-09-10T08:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
