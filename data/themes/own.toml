@@ -5,12 +5,12 @@ name = "Own"
 light = false
 
 # Primary
-primary = "hsl(300, 57%, 44%)"
+primary = "hsl(267, 95%, 76%)"
 
 # Menu
 menu_primary = "rgb(20, 22, 34)"
-menu_text = "rgba(176,48,176,1)"
-menu_text_active = "rgba(176,48,176,1)"
+menu_text = "rgba(187,134,252,1)"
+menu_text_active = "rgba(187,134,252,1)"
 menu_title = "#fff"
 
 # Home sections
