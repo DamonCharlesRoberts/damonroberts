@@ -14,4 +14,4 @@ header:
 
 * [Advice for Active Reading as an Undergrad](https://www.dropbox.com/s/g7vp69um1521wr0/Active-Reading--UG-Version-.pdf?dl=0)
 
-* [Professional Website Building with Github](https://www.dropbox.com/s/hmk9pvwhwfg537c/websiteworkshop.pdf?dl=0)
+* [Professional Website Building with Github](https://www.dropbox.com/s/c2hrkjmhufqyaw4/Professional%20Website%20Building.pdf?dl=0)
