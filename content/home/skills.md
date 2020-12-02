@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "Used in most research projects and beggining to develop some R packages (see my software page)."
+  description = "Primary tool used for research. Also currently maintaining an R package that I built (see ScrapeCongress)."
   
 [[feature]]
   icon = "chart-line"
